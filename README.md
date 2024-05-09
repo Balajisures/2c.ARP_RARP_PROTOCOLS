@@ -1,6 +1,4 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
-## NAME : BALAJI S
-## REG NO : 212223040024
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
@@ -19,7 +17,8 @@ stored.
 5. Map the IP address with its MAC address and return the MAC address to client.
 P
 ## PROGRAM - ARP
-DEVELOPED BY : SHANMUGA RAJ.K REG NO : 212223040192
+DEVELOPED BY : BALAJI S 
+REG NO : 212223040024
 ## Client:
 ```
 import socket
